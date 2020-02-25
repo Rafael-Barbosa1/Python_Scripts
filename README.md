@@ -1,2 +1,3 @@
-# Python_Scripts
-Estudos e scripts adicionais em Python.
+# Python Scripts
+
+Alguns scripts de treinos, geralmente notebooks, para lembrar-nos e aprendermos de algumas coisas futuramente.
