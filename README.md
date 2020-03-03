@@ -7,6 +7,6 @@ Alguns scripts de treinos, geralmente notebooks, para lembrar-nos e aprendermos 
 
 > ### Primeira parte
 >
-> [Capítulo 1](https://github.com/barbosarafael/Aprendizado-de-Python/blob/master/Python%20Cap1.ipynb) 
+> [Estruturas Sequenciais](https://github.com/barbosarafael/Aprendizado-de-Python/blob/master/Exercicios_Python_EstruturaSequencial.ipynb) 
 
 
