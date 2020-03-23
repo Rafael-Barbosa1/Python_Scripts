@@ -18,7 +18,8 @@ Alguns scripts de treinos, geralmente notebooks, para lembrar-nos e aprendermos 
 > ### Capítulo 3
 >
 > [Aula 1](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo03/Aula1Cap3_DSA.ipynb) |
-> [Aula 2](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo03/Aula2Cap3_DSA.ipynb)
+> [Aula 2](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo03/Aula2Cap3_DSA.ipynb) |
+> [Aula 3](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo03/Aula3Cap3_DSA.ipynb)
 
 
 
