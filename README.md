@@ -19,7 +19,9 @@ Alguns scripts de treinos, geralmente notebooks, para lembrar-nos e aprendermos 
 >
 > [Aula 1](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo03/Aula1Cap3_DSA.ipynb) |
 > [Aula 2](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo03/Aula2Cap3_DSA.ipynb) |
-> [Aula 3](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo03/Aula3Cap3_DSA.ipynb)
+> [Aula 3](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo03/Aula3Cap3_DSA.ipynb) | 
+> [Aula 4](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo03/Aula4Cap3_DSA.ipynb) |
+> [Exercício Loops](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo03/ExerciciosCap03-Exercicios-Loops-Condiconais.ipynb)
 
 
 
