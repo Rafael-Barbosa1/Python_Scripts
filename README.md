@@ -21,7 +21,11 @@ Alguns scripts de treinos, geralmente notebooks, para lembrar-nos e aprendermos 
 > [Aula 2](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo03/Aula2Cap3_DSA.ipynb) |
 > [Aula 3](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo03/Aula3Cap3_DSA.ipynb) | 
 > [Aula 4](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo03/Aula4Cap3_DSA.ipynb) |
-> [Exercício Loops](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo03/ExerciciosCap03-Exercicios-Loops-Condiconais.ipynb)
+> [Exercício Loops](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo03/ExerciciosCap03-Exercicios-Loops-Condiconais.ipynb) |
+> [Aula 5](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo03/Aula5Cap3_DSA.ipynb) |
+> [Exercício Funções](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo03/ExerciciosCap03-Exercicios-Funcoes.ipynb) |
+> [Lab02 - Calculadora](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo03/Lab02-Calculadora.ipynb)
+
 
 
 
