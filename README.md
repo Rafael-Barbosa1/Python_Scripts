@@ -27,6 +27,17 @@ Alguns scripts de treinos, geralmente notebooks, para lembrar-nos e aprendermos 
 > [Lab02 - Calculadora](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo03/Lab02-Calculadora.ipynb)
 
 
+> ### Capítulo 4
+>
+> [Aula 1](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo02/Aula1Cap4_DSA.ipynb) |
+> [Aula 2](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo02/Aula2Cap4_DSA.ipynb) |
+> [Aula 3](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo02/Aula3Cap4_DSA.ipynb) |
+> [Aula 4](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo02/Aula4Cap4_DSA.ipynb) |
+> [Aula 5](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo02/Aula5Cap4_DSA.ipynb) |
+> [Aula 6](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo02/Aula6Cap4_DSA.ipynb) |
+> [Aula 7](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo02/Aula7Cap4_DSA.ipynb) |
+> [Aula 8](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo02/Aula8Cap4_DSA.ipynb) |
+
 
 
 
