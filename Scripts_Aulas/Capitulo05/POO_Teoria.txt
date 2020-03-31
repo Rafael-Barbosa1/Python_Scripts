@@ -1,0 +1,7 @@
+#--- Classe: Representa o tipo do objeto, um modelo a partir do qual os objetos 
+serão criados. É um molde ou template. Exemplo: Livro. Começa com letra maiúscula.
+
+#--- Objeto: Criado a partir da classe. 
+
+Exemplo: Classe carro e objetos mercedes, BMW, Audi (possuem diferentes atributos).
+
