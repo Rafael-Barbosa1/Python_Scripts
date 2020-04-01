@@ -41,10 +41,13 @@ Alguns scripts de treinos, geralmente notebooks, para lembrar-nos e aprendermos 
 > [Aula 10](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo04/Aula10Cap4_DSA.ipynb)
 
 
-> ### Capítulo 4
+> ### Capítulo 5
 >
 > [Aula 1](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo05/Aula1Cap5_DSA.ipynb) |
 > [Aula 2](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo05/Aula2Cap5_DSA.ipynb) |
-> [POO Teoria](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo05/POO_Teoria.txt)
-
+> [POO Teoria](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo05/POO_Teoria.txt) |
+> [Aula 3](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo05/Aula3Cap5_DSA.ipynb) |
+> [Aula 4](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo05/Aula4Cap5_DSA.ipynb) |
+> [Aula 5](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo05/Aula4Cap5_DSA.ipynb) |
+> [Exercício](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo05/ExerciciosCap05-Exercicios.ipynb)
 
