@@ -56,3 +56,8 @@ Alguns scripts de treinos, geralmente notebooks, para lembrar-nos e aprendermos 
 >
 > [Aula 1](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo06/Aula1Cap6_DSA.ipynb) |
 > [Aula 2](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo06/Aula2Cap6_DSA.ipynb)
+
+
+> ### Capítulo 7
+>
+> [Desafio](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo07/DesafioDSA.ipynb)
