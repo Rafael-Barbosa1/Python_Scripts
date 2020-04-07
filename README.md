@@ -61,3 +61,15 @@ Alguns scripts de treinos, geralmente notebooks, para lembrar-nos e aprendermos 
 > ### Capítulo 7
 >
 > [Desafio](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo07/DesafioDSA.ipynb)
+
+
+> ### Capítulo 8
+>
+> [Aula 1](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo08/Aula1Cap8_DSA.ipynb) |
+> [Aula 2](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo08/Aula2Cap8_DSA.ipynb) |
+> [Aula 3](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo08/Aula3Cap8_DSA.ipynb) |
+> [Aula 4](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo08/Aula4Cap8_DSA.ipynb) |
+> [Aula 5](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo08/Aula5Cap8_DSA.ipynb) |
+> [Aula 6](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo08/Aula6Cap8_DSA.ipynb) |
+> [Aula 7](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo08/Aula7Cap8_DSA.ipynb) |
+> [Aula 8](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo08/Aula8Cap8_DSA.ipynb) 
