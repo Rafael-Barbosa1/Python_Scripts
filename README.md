@@ -72,4 +72,7 @@ Alguns scripts de treinos, geralmente notebooks, para lembrar-nos e aprendermos 
 > [Aula 5](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo08/Aula5Cap8_DSA.ipynb) |
 > [Aula 6](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo08/Aula6Cap8_DSA.ipynb) |
 > [Aula 7](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo08/Aula7Cap8_DSA.ipynb) |
-> [Aula 8](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo08/Aula8Cap8_DSA.ipynb) 
+> [Aula 8](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo08/Aula8Cap8_DSA.ipynb) |
+> [Exercício](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo08/Exercicios.ipynb)
+
+
