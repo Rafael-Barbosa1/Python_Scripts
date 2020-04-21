@@ -76,3 +76,6 @@ Alguns scripts de treinos, geralmente notebooks, para lembrar-nos e aprendermos 
 > [Exercício](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Scripts_Aulas/Capitulo08/Exercicios.ipynb)
 
 
+> ### Análise de Dados com Pandas
+> 
+> [Notebook](https://github.com/barbosarafael/Aprendizado-Python/blob/master/Pandas_Aprendizado/Tutorial_Pandas.ipynb)
