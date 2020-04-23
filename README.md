@@ -2,7 +2,7 @@
 
 ---
 
-Alguns scripts de treinos, geralmente notebooks, para lembrar-nos e aprendermos de algumas coisas futuramente. As aulas são da Data Science Academy do curso de Python Fundamentos para Análise de Dados.
+Alguns scripts de treinos, geralmente notebooks, para lembrar-nos e aprendermos de algumas coisas futuramente. É um compilado de cursos e tutoriais que estão na internet (qualquer material/site/vídeo eu tento lembrar de referenciar para dar total crédito a(o) autor(a)).
 
 
 ## Análise de Dados com Python - Data Science Academy
